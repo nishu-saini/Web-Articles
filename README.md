@@ -1,9 +1,21 @@
 # Web-Articles
 Respository contains articles related to web and web languages.
-1. Web Servers: https://docs.google.com/document/d/e/2PACX-1vRCeN360n7M7cKZA75NDNz8HIPs01A0RgV2UGsxInHcG8V4IQk4Dj2HVHAE1pF-CI6qCCdq_Mjf1Lxp/pub
+1. Web Servers: https://quarnstric.hashnode.dev/article-about-web-servers
 
-2. HTML Elements: https://docs.google.com/document/d/e/2PACX-1vRQnaq-uYeWXg2fPiu1-wLG3s8Hdz8IlqowBQjU72arSDocqWxcmgfhW_2Jlzh71I5ShX5TDajYO_Ek/pub
+2. HTML Elements: https://quarnstric.hashnode.dev/brief-introduction-to-html-elements
 
-3. Input Elements: https://docs.google.com/document/d/e/2PACX-1vTigWyQLMF-hO1wWyp87KZBVZB0kwQaofKoux6E9GQ1IGW0XjTBpF5Ed3JH4rhMlcGqLiarh4hve1rV/pub
+3. Input Elements: https://quarnstric.hashnode.dev/html-input-elments
 
-4. Audio and Video Elements: https://docs.google.com/document/d/e/2PACX-1vRGIBZRn3AfVc6QRj67tVgGtmn6V5WxpyrwCHB1aXyi8rGaq_FoomFs3lcyoJK0H-QM54mPwZAodCT6/pub
+4. Audio and Video Elements: https://quarnstric.hashnode.dev/brief-about-video-and-audio-tags
+
+5. CSS Selectors: https://quarnstric.hashnode.dev/types-of-css-selectors
+
+6. Positioning (CSS): https://quarnstric.hashnode.dev/article-about-css-positioning
+
+7. Flexbox (CSS): https://quarnstric.hashnode.dev/css-flexbox 
+
+8. CSS Box Model: https://quarnstric.hashnode.dev/brief-about-css-box-model
+
+9. Media Query: https://quarnstric.hashnode.dev/css-media-query
+
+10. CSS Grid: https://quarnstric.hashnode.dev/basics-of-css-grid 
